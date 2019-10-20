@@ -1,0 +1,13 @@
+*.class
+
+# Package Files #
+*.war
+*.ear
+target/*
+logs/*
+*.stub
+*~
+*.egg
+*egg-info/
+*.gem
+.distelli/
